@@ -1,0 +1,18 @@
+c:\users\howard.brown\documents\visual studio 2015\Projects\HB_Project_01\HB_Project_01\bin\Debug\HB_Project_01.exe.config
+c:\users\howard.brown\documents\visual studio 2015\Projects\HB_Project_01\HB_Project_01\bin\Debug\HB_Project_01.exe
+c:\users\howard.brown\documents\visual studio 2015\Projects\HB_Project_01\HB_Project_01\bin\Debug\HB_Project_01.pdb
+c:\users\howard.brown\documents\visual studio 2015\Projects\HB_Project_01\HB_Project_01\obj\Debug\HB_Project_01.csprojResolveAssemblyReference.cache
+c:\users\howard.brown\documents\visual studio 2015\Projects\HB_Project_01\HB_Project_01\obj\Debug\HB_Project_01.Form1.resources
+c:\users\howard.brown\documents\visual studio 2015\Projects\HB_Project_01\HB_Project_01\obj\Debug\HB_Project_01.Properties.Resources.resources
+c:\users\howard.brown\documents\visual studio 2015\Projects\HB_Project_01\HB_Project_01\obj\Debug\HB_Project_01.csproj.GenerateResource.Cache
+c:\users\howard.brown\documents\visual studio 2015\Projects\HB_Project_01\HB_Project_01\obj\Debug\HB_Project_01.exe
+c:\users\howard.brown\documents\visual studio 2015\Projects\HB_Project_01\HB_Project_01\obj\Debug\HB_Project_01.pdb
+C:\Users\howard.brown\Desktop\CS1400\HB_Project_01\HB_Project_01\bin\Debug\HB_Project_01.exe.config
+C:\Users\howard.brown\Desktop\CS1400\HB_Project_01\HB_Project_01\bin\Debug\HB_Project_01.exe
+C:\Users\howard.brown\Desktop\CS1400\HB_Project_01\HB_Project_01\bin\Debug\HB_Project_01.pdb
+C:\Users\howard.brown\Desktop\CS1400\HB_Project_01\HB_Project_01\obj\Debug\HB_Project_01.csprojResolveAssemblyReference.cache
+C:\Users\howard.brown\Desktop\CS1400\HB_Project_01\HB_Project_01\obj\Debug\HB_Project_01.Form1.resources
+C:\Users\howard.brown\Desktop\CS1400\HB_Project_01\HB_Project_01\obj\Debug\HB_Project_01.Properties.Resources.resources
+C:\Users\howard.brown\Desktop\CS1400\HB_Project_01\HB_Project_01\obj\Debug\HB_Project_01.csproj.GenerateResource.Cache
+C:\Users\howard.brown\Desktop\CS1400\HB_Project_01\HB_Project_01\obj\Debug\HB_Project_01.exe
+C:\Users\howard.brown\Desktop\CS1400\HB_Project_01\HB_Project_01\obj\Debug\HB_Project_01.pdb

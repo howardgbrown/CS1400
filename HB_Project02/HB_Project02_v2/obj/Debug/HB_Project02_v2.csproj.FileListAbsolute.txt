@@ -1,0 +1,9 @@
+C:\Users\howard.brown\Desktop\CS1400\HB_Project02_v2\HB_Project02_v2\bin\Debug\HB_Project02_v2.exe.config
+C:\Users\howard.brown\Desktop\CS1400\HB_Project02_v2\HB_Project02_v2\bin\Debug\HB_Project02_v2.exe
+C:\Users\howard.brown\Desktop\CS1400\HB_Project02_v2\HB_Project02_v2\bin\Debug\HB_Project02_v2.pdb
+C:\Users\howard.brown\Desktop\CS1400\HB_Project02_v2\HB_Project02_v2\obj\Debug\HB_Project02_v2.csprojResolveAssemblyReference.cache
+C:\Users\howard.brown\Desktop\CS1400\HB_Project02_v2\HB_Project02_v2\obj\Debug\HB_Project02_v2.Form1.resources
+C:\Users\howard.brown\Desktop\CS1400\HB_Project02_v2\HB_Project02_v2\obj\Debug\HB_Project02_v2.Properties.Resources.resources
+C:\Users\howard.brown\Desktop\CS1400\HB_Project02_v2\HB_Project02_v2\obj\Debug\HB_Project02_v2.csproj.GenerateResource.Cache
+C:\Users\howard.brown\Desktop\CS1400\HB_Project02_v2\HB_Project02_v2\obj\Debug\HB_Project02_v2.exe
+C:\Users\howard.brown\Desktop\CS1400\HB_Project02_v2\HB_Project02_v2\obj\Debug\HB_Project02_v2.pdb
