@@ -1,0 +1,4 @@
+C:\Users\howard.brown\Desktop\CS1400\HB_Lab_11\HB_Lab_11\obj\Debug\HB_Lab_11.csprojResolveAssemblyReference.cache
+C:\Users\howard.brown\Desktop\CS1400\HB_Lab_11\HB_Lab_11\obj\Debug\HB_Lab_11.Form1.resources
+C:\Users\howard.brown\Desktop\CS1400\HB_Lab_11\HB_Lab_11\obj\Debug\HB_Lab_11.Properties.Resources.resources
+C:\Users\howard.brown\Desktop\CS1400\HB_Lab_11\HB_Lab_11\obj\Debug\HB_Lab_11.csproj.GenerateResource.Cache

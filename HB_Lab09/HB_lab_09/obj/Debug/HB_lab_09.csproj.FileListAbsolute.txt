@@ -1,0 +1,6 @@
+C:\Users\howard.brown\Desktop\CS1400\HB_lab_09\HB_lab_09\bin\Debug\HB_lab_09.exe.config
+C:\Users\howard.brown\Desktop\CS1400\HB_lab_09\HB_lab_09\bin\Debug\HB_lab_09.exe
+C:\Users\howard.brown\Desktop\CS1400\HB_lab_09\HB_lab_09\bin\Debug\HB_lab_09.pdb
+C:\Users\howard.brown\Desktop\CS1400\HB_lab_09\HB_lab_09\obj\Debug\HB_lab_09.csprojResolveAssemblyReference.cache
+C:\Users\howard.brown\Desktop\CS1400\HB_lab_09\HB_lab_09\obj\Debug\HB_lab_09.exe
+C:\Users\howard.brown\Desktop\CS1400\HB_lab_09\HB_lab_09\obj\Debug\HB_lab_09.pdb
