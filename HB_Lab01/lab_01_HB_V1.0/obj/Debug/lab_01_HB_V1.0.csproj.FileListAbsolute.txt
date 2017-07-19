@@ -1,0 +1,6 @@
+E:\CIS1400_602\lab_01_HB_V1.0\lab_01_HB_V1.0\bin\Debug\lab_01_HB_V1.0.exe.config
+E:\CIS1400_602\lab_01_HB_V1.0\lab_01_HB_V1.0\bin\Debug\lab_01_HB_V1.0.exe
+E:\CIS1400_602\lab_01_HB_V1.0\lab_01_HB_V1.0\bin\Debug\lab_01_HB_V1.0.pdb
+E:\CIS1400_602\lab_01_HB_V1.0\lab_01_HB_V1.0\obj\Debug\lab_01_HB_V1.0.csprojResolveAssemblyReference.cache
+E:\CIS1400_602\lab_01_HB_V1.0\lab_01_HB_V1.0\obj\Debug\lab_01_HB_V1.0.exe
+E:\CIS1400_602\lab_01_HB_V1.0\lab_01_HB_V1.0\obj\Debug\lab_01_HB_V1.0.pdb

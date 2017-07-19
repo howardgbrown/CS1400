@@ -1,0 +1,9 @@
+E:\CIS1400_602\lab_02_HB_V1.0\lab_02_HB_V1.0\bin\Debug\lab_02_HB_V1.0.exe.config
+E:\CIS1400_602\lab_02_HB_V1.0\lab_02_HB_V1.0\bin\Debug\lab_02_HB_V1.0.exe
+E:\CIS1400_602\lab_02_HB_V1.0\lab_02_HB_V1.0\bin\Debug\lab_02_HB_V1.0.pdb
+E:\CIS1400_602\lab_02_HB_V1.0\lab_02_HB_V1.0\obj\Debug\lab_02_HB_V1.0.csprojResolveAssemblyReference.cache
+E:\CIS1400_602\lab_02_HB_V1.0\lab_02_HB_V1.0\obj\Debug\lab_02_HB_V1._0.Form1.resources
+E:\CIS1400_602\lab_02_HB_V1.0\lab_02_HB_V1.0\obj\Debug\lab_02_HB_V1._0.Properties.Resources.resources
+E:\CIS1400_602\lab_02_HB_V1.0\lab_02_HB_V1.0\obj\Debug\lab_02_HB_V1.0.csproj.GenerateResource.Cache
+E:\CIS1400_602\lab_02_HB_V1.0\lab_02_HB_V1.0\obj\Debug\lab_02_HB_V1.0.exe
+E:\CIS1400_602\lab_02_HB_V1.0\lab_02_HB_V1.0\obj\Debug\lab_02_HB_V1.0.pdb
