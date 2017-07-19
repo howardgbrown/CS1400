@@ -1,0 +1,21 @@
+C:\Users\howard.brown\Documents\Visual Studio 2017\Projects\CS1400\HB.lab04.formApp\HB.lab04.formApp\bin\Debug\HB.lab04.formApp.exe.config
+C:\Users\howard.brown\Documents\Visual Studio 2017\Projects\CS1400\HB.lab04.formApp\HB.lab04.formApp\bin\Debug\HB.lab04.formApp.exe
+C:\Users\howard.brown\Documents\Visual Studio 2017\Projects\CS1400\HB.lab04.formApp\HB.lab04.formApp\bin\Debug\HB.lab04.formApp.pdb
+C:\Users\howard.brown\Documents\Visual Studio 2017\Projects\CS1400\HB.lab04.formApp\HB.lab04.formApp\obj\Debug\HB.lab04.formApp.csprojResolveAssemblyReference.cache
+C:\Users\howard.brown\Documents\Visual Studio 2017\Projects\CS1400\HB.lab04.formApp\HB.lab04.formApp\obj\Debug\HB.lab04.formApp.Form1.resources
+C:\Users\howard.brown\Documents\Visual Studio 2017\Projects\CS1400\HB.lab04.formApp\HB.lab04.formApp\obj\Debug\HB.lab04.formApp.Properties.Resources.resources
+C:\Users\howard.brown\Documents\Visual Studio 2017\Projects\CS1400\HB.lab04.formApp\HB.lab04.formApp\obj\Debug\HB.lab04.formApp.csproj.GenerateResource.Cache
+C:\Users\howard.brown\Documents\Visual Studio 2017\Projects\CS1400\HB.lab04.formApp\HB.lab04.formApp\obj\Debug\HB.lab04.formApp.exe
+C:\Users\howard.brown\Documents\Visual Studio 2017\Projects\CS1400\HB.lab04.formApp\HB.lab04.formApp\obj\Debug\HB.lab04.formApp.pdb
+E:\CIS1400_602\HB.lab04.formApp\HB.lab04.formApp\bin\Debug\HB.lab04.formApp.exe.config
+E:\CIS1400_602\HB.lab04.formApp\HB.lab04.formApp\obj\Debug\HB.lab04.formApp.exe
+E:\CIS1400_602\HB.lab04.formApp\HB.lab04.formApp\obj\Debug\HB.lab04.formApp.pdb
+E:\CIS1400_602\HB.lab05\HB.lab04.formApp\bin\Debug\HB.lab04.formApp.exe.config
+E:\CIS1400_602\HB.lab05\HB.lab04.formApp\obj\Debug\HB.lab04.formApp.exe
+E:\CIS1400_602\HB.lab05\HB.lab04.formApp\obj\Debug\HB.lab04.formApp.pdb
+E:\CIS1400_602\HB.lab05\HB.lab04.formApp\bin\Debug\HB.lab04.formApp.exe
+E:\CIS1400_602\HB.lab05\HB.lab04.formApp\bin\Debug\HB.lab04.formApp.pdb
+E:\CIS1400_602\HB.lab05\HB.lab04.formApp\obj\Debug\HB.lab04.formApp.csprojResolveAssemblyReference.cache
+E:\CIS1400_602\HB.lab05\HB.lab04.formApp\obj\Debug\HB.lab04.formApp.Form1.resources
+E:\CIS1400_602\HB.lab05\HB.lab04.formApp\obj\Debug\HB.lab04.formApp.Properties.Resources.resources
+E:\CIS1400_602\HB.lab05\HB.lab04.formApp\obj\Debug\HB.lab04.formApp.csproj.GenerateResource.Cache
