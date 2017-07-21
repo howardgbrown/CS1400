@@ -1,0 +1,9 @@
+C:\Users\howard.brown\Desktop\CS1400\HB_Lab13\HB_Lab13\bin\Debug\HB_Lab13.exe.config
+C:\Users\howard.brown\Desktop\CS1400\HB_Lab13\HB_Lab13\bin\Debug\HB_Lab13.exe
+C:\Users\howard.brown\Desktop\CS1400\HB_Lab13\HB_Lab13\bin\Debug\HB_Lab13.pdb
+C:\Users\howard.brown\Desktop\CS1400\HB_Lab13\HB_Lab13\obj\Debug\HB_Lab13.csprojResolveAssemblyReference.cache
+C:\Users\howard.brown\Desktop\CS1400\HB_Lab13\HB_Lab13\obj\Debug\HB_Lab13.Form1.resources
+C:\Users\howard.brown\Desktop\CS1400\HB_Lab13\HB_Lab13\obj\Debug\HB_Lab13.Properties.Resources.resources
+C:\Users\howard.brown\Desktop\CS1400\HB_Lab13\HB_Lab13\obj\Debug\HB_Lab13.csproj.GenerateResource.Cache
+C:\Users\howard.brown\Desktop\CS1400\HB_Lab13\HB_Lab13\obj\Debug\HB_Lab13.exe
+C:\Users\howard.brown\Desktop\CS1400\HB_Lab13\HB_Lab13\obj\Debug\HB_Lab13.pdb
