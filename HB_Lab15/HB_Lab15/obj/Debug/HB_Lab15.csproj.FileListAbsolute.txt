@@ -1,0 +1,9 @@
+C:\Users\howard.brown\Desktop\CS1400\HB_Lab15\HB_Lab15\bin\Debug\HB_Lab15.exe.config
+C:\Users\howard.brown\Desktop\CS1400\HB_Lab15\HB_Lab15\bin\Debug\HB_Lab15.exe
+C:\Users\howard.brown\Desktop\CS1400\HB_Lab15\HB_Lab15\bin\Debug\HB_Lab15.pdb
+C:\Users\howard.brown\Desktop\CS1400\HB_Lab15\HB_Lab15\obj\Debug\HB_Lab15.csprojResolveAssemblyReference.cache
+C:\Users\howard.brown\Desktop\CS1400\HB_Lab15\HB_Lab15\obj\Debug\HB_Lab15.Form1.resources
+C:\Users\howard.brown\Desktop\CS1400\HB_Lab15\HB_Lab15\obj\Debug\HB_Lab15.Properties.Resources.resources
+C:\Users\howard.brown\Desktop\CS1400\HB_Lab15\HB_Lab15\obj\Debug\HB_Lab15.csproj.GenerateResource.Cache
+C:\Users\howard.brown\Desktop\CS1400\HB_Lab15\HB_Lab15\obj\Debug\HB_Lab15.exe
+C:\Users\howard.brown\Desktop\CS1400\HB_Lab15\HB_Lab15\obj\Debug\HB_Lab15.pdb
