@@ -1,0 +1,18 @@
+c:\users\howard.brown\documents\visual studio 2015\Projects\HB_Project5\HB_Project5\bin\Debug\HB_Project5.exe.config
+c:\users\howard.brown\documents\visual studio 2015\Projects\HB_Project5\HB_Project5\obj\Debug\HB_Project5.csprojResolveAssemblyReference.cache
+c:\users\howard.brown\documents\visual studio 2015\Projects\HB_Project5\HB_Project5\obj\Debug\HB_Project5.Form1.resources
+c:\users\howard.brown\documents\visual studio 2015\Projects\HB_Project5\HB_Project5\obj\Debug\HB_Project5.Properties.Resources.resources
+c:\users\howard.brown\documents\visual studio 2015\Projects\HB_Project5\HB_Project5\obj\Debug\HB_Project5.csproj.GenerateResource.Cache
+c:\users\howard.brown\documents\visual studio 2015\Projects\HB_Project5\HB_Project5\bin\Debug\HB_Project5.exe
+c:\users\howard.brown\documents\visual studio 2015\Projects\HB_Project5\HB_Project5\bin\Debug\HB_Project5.pdb
+c:\users\howard.brown\documents\visual studio 2015\Projects\HB_Project5\HB_Project5\obj\Debug\HB_Project5.exe
+c:\users\howard.brown\documents\visual studio 2015\Projects\HB_Project5\HB_Project5\obj\Debug\HB_Project5.pdb
+C:\Users\howard.brown\Desktop\CS1400\HB_Project05\HB_Project5\bin\Debug\HB_Project5.exe.config
+C:\Users\howard.brown\Desktop\CS1400\HB_Project05\HB_Project5\obj\Debug\HB_Project5.exe
+C:\Users\howard.brown\Desktop\CS1400\HB_Project05\HB_Project5\obj\Debug\HB_Project5.pdb
+C:\Users\howard.brown\Desktop\CS1400\HB_Project05\HB_Project5\obj\Debug\HB_Project5.csprojResolveAssemblyReference.cache
+C:\Users\howard.brown\Desktop\CS1400\HB_Project05\HB_Project5\obj\Debug\HB_Project5.Form1.resources
+C:\Users\howard.brown\Desktop\CS1400\HB_Project05\HB_Project5\obj\Debug\HB_Project5.Properties.Resources.resources
+C:\Users\howard.brown\Desktop\CS1400\HB_Project05\HB_Project5\obj\Debug\HB_Project5.csproj.GenerateResource.Cache
+C:\Users\howard.brown\Desktop\CS1400\HB_Project05\HB_Project5\bin\Debug\HB_Project5.exe
+C:\Users\howard.brown\Desktop\CS1400\HB_Project05\HB_Project5\bin\Debug\HB_Project5.pdb
