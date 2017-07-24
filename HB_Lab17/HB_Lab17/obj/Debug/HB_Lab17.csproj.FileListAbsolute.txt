@@ -1,0 +1,9 @@
+C:\Users\howard.brown\Desktop\CS1400\HB_Lab17\HB_Lab17\bin\Debug\HB_Lab17.exe.config
+C:\Users\howard.brown\Desktop\CS1400\HB_Lab17\HB_Lab17\bin\Debug\HB_Lab17.exe
+C:\Users\howard.brown\Desktop\CS1400\HB_Lab17\HB_Lab17\bin\Debug\HB_Lab17.pdb
+C:\Users\howard.brown\Desktop\CS1400\HB_Lab17\HB_Lab17\obj\Debug\HB_Lab17.csprojResolveAssemblyReference.cache
+C:\Users\howard.brown\Desktop\CS1400\HB_Lab17\HB_Lab17\obj\Debug\HB_Lab17.Form1.resources
+C:\Users\howard.brown\Desktop\CS1400\HB_Lab17\HB_Lab17\obj\Debug\HB_Lab17.Properties.Resources.resources
+C:\Users\howard.brown\Desktop\CS1400\HB_Lab17\HB_Lab17\obj\Debug\HB_Lab17.csproj.GenerateResource.Cache
+C:\Users\howard.brown\Desktop\CS1400\HB_Lab17\HB_Lab17\obj\Debug\HB_Lab17.exe
+C:\Users\howard.brown\Desktop\CS1400\HB_Lab17\HB_Lab17\obj\Debug\HB_Lab17.pdb
