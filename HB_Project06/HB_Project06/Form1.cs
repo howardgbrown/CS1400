@@ -11,13 +11,6 @@
 */
 
 using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace HB_Project06
@@ -31,23 +24,26 @@ namespace HB_Project06
             InitializeComponent();
 
         }
-
-        public void MethodAndCategory()
-        {
-            sr.ShippingMethod = comboShipMeth.Text;
-            sr.Category = comboBox1.Text;
-
-        }
+        // Name: radioYes_CheckedChanged
+        // Purpose: Add surcharge
+        // Parameters:none
+        // Return: none
         private void radioYes_CheckedChanged(object sender, EventArgs e)
         {
-            
-        }
 
+        }
+        // Name: radioNo_CheckedChanged
+        // Purpose: Do not add surcharge
+        // Parameters:none
+        // Return: none
         private void radioNo_CheckedChanged(object sender, EventArgs e)
         {
 
         }
-
+        // Name: comboShipMeth_SelectedIndexChanged
+        // Purpose: Selects Shipping Method from drop down
+        // Parameters:none
+        // Return: none
         private void comboShipMeth_SelectedIndexChanged(object sender, EventArgs e)
         {
 
@@ -69,7 +65,10 @@ namespace HB_Project06
         {
             Close();
         }
-
+        // Name: comboBox1_SelectedIndexChanged
+        // Purpose: Selects by item or by weight from drop down
+        // Parameters: none
+        // Return: none
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
 
@@ -81,29 +80,16 @@ namespace HB_Project06
         // Return: none
         private void button1_Click(object sender, EventArgs e)
         {
-
-            string selectedYes = radioYes.Text;
-            string selectedNo = radioNo.Text;
-            sr.numItems = int.Parse(textBoxCategory.Text);
-
-            //sr.numItems = numItems;
-
-
-            string ShippingMethod = comboShipMeth.Text;
-            string Category = comboBox1.Text;
+            string shippingMethod = comboShipMeth.Text;
+            string category = comboBox1.Text;
             int numItems = int.Parse(textBoxCategory.Text);
+            bool doCharge = radioYes.Checked;
+            sr = new ShippingRates(shippingMethod, category, doCharge);
 
-            if (selectedYes == "Yes")
-            {
-                sr.SurchargeHaAk = 1;
-            }
-            else
-            {
-                sr.SurchargeHaAk = 0;
-            }
-
-            sr = new ShippingRates(ShippingMethod, Category);
+            sr.NumItems = numItems;
+            
             textShippingCost.Text = $"{sr.ShippingCost():C}";
+
         }
 
     }

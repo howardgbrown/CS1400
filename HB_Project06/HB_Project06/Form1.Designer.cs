@@ -234,6 +234,7 @@
             this.textShippingCost.Name = "textShippingCost";
             this.textShippingCost.Size = new System.Drawing.Size(102, 19);
             this.textShippingCost.TabIndex = 9;
+            this.textShippingCost.Text = "$0.00";
             // 
             // Form1
             // 

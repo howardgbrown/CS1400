@@ -32,20 +32,17 @@ namespace HB_Project06
         public const double SUR_CHARGE_NONE = 0.00;
         public string ShippingMethod;
         public string Category;
-        public int numItems;
-        //public double lbs;
+        public double lbs;
         public double surChargeAdd;
         public double rate;
-        public int SurchargeHaAk;
-
-        public int NumItems { get => NumItems; set => NumItems = value; }
+        public int NumItems { get; set; }
 
 
         // Name: Shipping Rates
-        // Purpose:
-        // Parameters:
-        // Return:
-        public ShippingRates(string Ship, string Cat)
+        // Purpose: Determines what rate to use
+        // Parameters: Ship, Cat and DoCharge
+        // Return: rate
+        public ShippingRates(string Ship, string Cat, bool DoCharge)
         {
             ShippingMethod = Ship;
             Category = Cat;
@@ -64,6 +61,7 @@ namespace HB_Project06
             {
                 rate = sSBW;
             }
+ 
             else if (Ship == s2 && Cat == c1)
             {
                 rate = eSBI;
@@ -80,32 +78,39 @@ namespace HB_Project06
             {
                 rate = sDBW;
             }
+            SurCharge(DoCharge);
         }
-
-         public void SurCharge()
+        // Name: SurCharge
+        // Purpose: Determines what surcharge to add
+        // Parameters: none
+        // Return: none
+        public void SurCharge(bool doCharge)
          {
+             if (doCharge)
+             {
+                if (rate == sSBI)
+                {
+                    surChargeAdd = SUR_CHARGE_S_S;
+                }
+                else if (rate == eSBI)
+                {
+                    surChargeAdd = SUR_CHARGE_E_S;
+                }
+                else if (rate == sDBI)
+                {
+                    surChargeAdd = SUR_CHARGE_S_D;
+                }
+                else
+                {
+                    surChargeAdd = SUR_CHARGE_NONE;
+                }
+            }
 
-            if (rate == sSBI && SurchargeHaAk == 1)
-            {
-                surChargeAdd = SUR_CHARGE_S_S;
-            }
-            else if (rate == eSBI && SurchargeHaAk == 1)
-            {
-                surChargeAdd = SUR_CHARGE_E_S;
-            }
-            else if (rate == sDBI && SurchargeHaAk == 1)
-            {
-                surChargeAdd = SUR_CHARGE_S_D;
-            }
-            else
-            {
-                surChargeAdd = SUR_CHARGE_NONE;
-            }
          }
         
         // Name: ShippingCost
         // Purpose: Calculate the total Shipping Cost
-        // Parameters:
+        // Parameters:none
         // Return: Total shipping cost
         public double ShippingCost()
         {
