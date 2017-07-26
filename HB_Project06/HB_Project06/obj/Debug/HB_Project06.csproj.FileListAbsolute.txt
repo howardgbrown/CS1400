@@ -7,3 +7,12 @@ C:\Users\howard.brown\Desktop\CS1400\HB_Project06\HB_Project06\obj\Debug\HB_Proj
 C:\Users\howard.brown\Desktop\CS1400\HB_Project06\HB_Project06\obj\Debug\HB_Project06.csproj.GenerateResource.Cache
 C:\Users\howard.brown\Desktop\CS1400\HB_Project06\HB_Project06\obj\Debug\HB_Project06.exe
 C:\Users\howard.brown\Desktop\CS1400\HB_Project06\HB_Project06\obj\Debug\HB_Project06.pdb
+C:\Users\Howard Brown\Desktop\HB_Project06\HB_Project06\bin\Debug\HB_Project06.exe.config
+C:\Users\Howard Brown\Desktop\HB_Project06\HB_Project06\bin\Debug\HB_Project06.exe
+C:\Users\Howard Brown\Desktop\HB_Project06\HB_Project06\bin\Debug\HB_Project06.pdb
+C:\Users\Howard Brown\Desktop\HB_Project06\HB_Project06\obj\Debug\HB_Project06.csprojResolveAssemblyReference.cache
+C:\Users\Howard Brown\Desktop\HB_Project06\HB_Project06\obj\Debug\HB_Project06.Form1.resources
+C:\Users\Howard Brown\Desktop\HB_Project06\HB_Project06\obj\Debug\HB_Project06.Properties.Resources.resources
+C:\Users\Howard Brown\Desktop\HB_Project06\HB_Project06\obj\Debug\HB_Project06.csproj.GenerateResource.Cache
+C:\Users\Howard Brown\Desktop\HB_Project06\HB_Project06\obj\Debug\HB_Project06.exe
+C:\Users\Howard Brown\Desktop\HB_Project06\HB_Project06\obj\Debug\HB_Project06.pdb
