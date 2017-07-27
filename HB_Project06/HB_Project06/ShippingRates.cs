@@ -20,6 +20,8 @@ namespace HB_Project06
 {
     class ShippingRates
     {
+        // declare variables
+
         public const double sSBI = 3.00;
         public const double sSBW = 1.45;
         public const double eSBI = 4.00;
@@ -35,13 +37,15 @@ namespace HB_Project06
         public double lbs;
         public double surChargeAdd;
         public double rate;
-        public int NumItems { get; set; }
+        public double NumItems { get; set; }
 
 
         // Name: Shipping Rates
         // Purpose: Determines what rate to use
         // Parameters: Ship, Cat and DoCharge
         // Return: rate
+
+            // Constructor   MethodName(var, var)
         public ShippingRates(string Ship, string Cat, bool DoCharge)
         {
             ShippingMethod = Ship;
@@ -100,6 +104,19 @@ namespace HB_Project06
                 {
                     surChargeAdd = SUR_CHARGE_S_D;
                 }
+                 else if (rate == sSBW)
+                 {
+                     surChargeAdd = SUR_CHARGE_S_S;
+                 }
+                 else if (rate == eSBW)
+                 {
+                     surChargeAdd = SUR_CHARGE_E_S;
+                 }
+                 else if (rate == sDBW)
+                 {
+                     surChargeAdd = SUR_CHARGE_S_D;
+                 }
+
                 else
                 {
                     surChargeAdd = SUR_CHARGE_NONE;

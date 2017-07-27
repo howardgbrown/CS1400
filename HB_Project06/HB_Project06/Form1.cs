@@ -22,7 +22,6 @@ namespace HB_Project06
         public Form1()
         {
             InitializeComponent();
-
         }
         // Name: radioYes_CheckedChanged
         // Purpose: Add surcharge
@@ -46,6 +45,7 @@ namespace HB_Project06
         // Return: none
         private void comboShipMeth_SelectedIndexChanged(object sender, EventArgs e)
         {
+            
 
         }
         // Name: aboutToolStripMenuItem_Click_1
@@ -71,7 +71,14 @@ namespace HB_Project06
         // Return: none
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
-
+            if (comboBox1.SelectedIndex == 1) // if statement for label items
+            {                                 // textbox.Text  
+                labelTextBoxCategory.Text = "Number of Items";
+            }                                 // else for label weight
+            else
+            {
+                labelTextBoxCategory.Text = "Weight of Shipment";
+            }
         }
 
         // Name: button1_Click
@@ -80,15 +87,15 @@ namespace HB_Project06
         // Return: none
         private void button1_Click(object sender, EventArgs e)
         {
-            string shippingMethod = comboShipMeth.Text;
-            string category = comboBox1.Text;
-            int numItems = int.Parse(textBoxCategory.Text);
+            string shippingMethod = comboShipMeth.Text;  // string shipping = comboBox1
+            string category = comboBox1.Text;            // string category = comboBox2
+            double numItems = double.Parse(textBoxCategory.Text); // double numitems = textBox.Text
             bool doCharge = radioYes.Checked;
             sr = new ShippingRates(shippingMethod, category, doCharge);
 
             sr.NumItems = numItems;
             
-            textShippingCost.Text = $"{sr.ShippingCost():C}";
+            textShippingCost.Text = $"{sr.ShippingCost():C}"; // total = $"{someMethod():C}"
 
         }
 
