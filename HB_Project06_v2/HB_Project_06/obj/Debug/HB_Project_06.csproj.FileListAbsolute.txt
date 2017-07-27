@@ -1,0 +1,9 @@
+C:\Users\howard.brown\Desktop\HB_Project_06\HB_Project_06\bin\Debug\HB_Project_06.exe.config
+C:\Users\howard.brown\Desktop\HB_Project_06\HB_Project_06\bin\Debug\HB_Project_06.exe
+C:\Users\howard.brown\Desktop\HB_Project_06\HB_Project_06\bin\Debug\HB_Project_06.pdb
+C:\Users\howard.brown\Desktop\HB_Project_06\HB_Project_06\obj\Debug\HB_Project_06.csprojResolveAssemblyReference.cache
+C:\Users\howard.brown\Desktop\HB_Project_06\HB_Project_06\obj\Debug\HB_Project_06.Form1.resources
+C:\Users\howard.brown\Desktop\HB_Project_06\HB_Project_06\obj\Debug\HB_Project_06.Properties.Resources.resources
+C:\Users\howard.brown\Desktop\HB_Project_06\HB_Project_06\obj\Debug\HB_Project_06.csproj.GenerateResource.Cache
+C:\Users\howard.brown\Desktop\HB_Project_06\HB_Project_06\obj\Debug\HB_Project_06.exe
+C:\Users\howard.brown\Desktop\HB_Project_06\HB_Project_06\obj\Debug\HB_Project_06.pdb
