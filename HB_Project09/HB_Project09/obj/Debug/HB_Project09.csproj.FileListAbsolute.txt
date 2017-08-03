@@ -1,0 +1,6 @@
+c:\users\howard.brown\documents\visual studio 2017\Projects\HB_Project09\HB_Project09\obj\Debug\HB_Project09.csprojResolveAssemblyReference.cache
+c:\users\howard.brown\documents\visual studio 2017\Projects\HB_Project09\HB_Project09\bin\Debug\HB_Project09.exe.config
+c:\users\howard.brown\documents\visual studio 2017\Projects\HB_Project09\HB_Project09\bin\Debug\HB_Project09.exe
+c:\users\howard.brown\documents\visual studio 2017\Projects\HB_Project09\HB_Project09\bin\Debug\HB_Project09.pdb
+c:\users\howard.brown\documents\visual studio 2017\Projects\HB_Project09\HB_Project09\obj\Debug\HB_Project09.exe
+c:\users\howard.brown\documents\visual studio 2017\Projects\HB_Project09\HB_Project09\obj\Debug\HB_Project09.pdb

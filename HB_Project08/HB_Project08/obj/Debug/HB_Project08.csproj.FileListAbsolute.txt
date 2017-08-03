@@ -1,0 +1,9 @@
+C:\Users\howard.brown\Desktop\HB_Project08\HB_Project08\obj\Debug\HB_Project08.csprojResolveAssemblyReference.cache
+C:\Users\howard.brown\Desktop\HB_Project08\HB_Project08\obj\Debug\HB_Project08.Form1.resources
+C:\Users\howard.brown\Desktop\HB_Project08\HB_Project08\obj\Debug\HB_Project08.Properties.Resources.resources
+C:\Users\howard.brown\Desktop\HB_Project08\HB_Project08\obj\Debug\HB_Project08.csproj.GenerateResource.Cache
+C:\Users\howard.brown\Desktop\HB_Project08\HB_Project08\bin\Debug\HB_Project08.exe.config
+C:\Users\howard.brown\Desktop\HB_Project08\HB_Project08\bin\Debug\HB_Project08.exe
+C:\Users\howard.brown\Desktop\HB_Project08\HB_Project08\bin\Debug\HB_Project08.pdb
+C:\Users\howard.brown\Desktop\HB_Project08\HB_Project08\obj\Debug\HB_Project08.exe
+C:\Users\howard.brown\Desktop\HB_Project08\HB_Project08\obj\Debug\HB_Project08.pdb
