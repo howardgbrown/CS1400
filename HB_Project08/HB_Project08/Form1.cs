@@ -75,27 +75,27 @@ namespace HB_Project08
         {
             if (dieValue == 1)
             {
-                pb.Image = Image.FromFile("C:/Users/Howard Brown/Desktop/HB_Project08/HB_Project08/Resources/die1.bmp");
+                pb.Image = Properties.Resources.die1;
             }
             else if (dieValue == 2)
             {
-                pb.Image = Image.FromFile("C:/Users/Howard Brown/Desktop/HB_Project08/HB_Project08/Resources/die2.bmp");
+                pb.Image = Properties.Resources.die2;
             }
             else if (dieValue == 3)
             {
-                pb.Image = Image.FromFile("C:/Users/Howard Brown/Desktop/HB_Project08/HB_Project08/Resources/die3.bmp");
+                pb.Image = Properties.Resources.die3;
             }
             else if (dieValue == 4)
             {
-                pb.Image = Image.FromFile("C:/Users/Howard Brown/Desktop/HB_Project08/HB_Project08/Resources/die4.bmp");
+                pb.Image = Properties.Resources.die4;
             }
             else if (dieValue == 5)
             {
-                pb.Image = Image.FromFile("C:/Users/Howard Brown/Desktop/HB_Project08/HB_Project08/Resources/die5.bmp");
+                pb.Image = Properties.Resources.die5;
             }
             else
             {
-                pb.Image = Image.FromFile("C:/Users/Howard Brown/Desktop/HB_Project08/HB_Project08/Resources/die6.bmp");
+                pb.Image = Properties.Resources.die6;
             }
         }
 
