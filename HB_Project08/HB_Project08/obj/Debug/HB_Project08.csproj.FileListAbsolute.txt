@@ -7,3 +7,12 @@ C:\Users\howard.brown\Desktop\HB_Project08\HB_Project08\bin\Debug\HB_Project08.e
 C:\Users\howard.brown\Desktop\HB_Project08\HB_Project08\bin\Debug\HB_Project08.pdb
 C:\Users\howard.brown\Desktop\HB_Project08\HB_Project08\obj\Debug\HB_Project08.exe
 C:\Users\howard.brown\Desktop\HB_Project08\HB_Project08\obj\Debug\HB_Project08.pdb
+C:\Users\Howard Brown\Desktop\HB_Project08\HB_Project08\obj\Debug\HB_Project08.csprojResolveAssemblyReference.cache
+C:\Users\Howard Brown\Desktop\HB_Project08\HB_Project08\obj\Debug\HB_Project08.Form1.resources
+C:\Users\Howard Brown\Desktop\HB_Project08\HB_Project08\obj\Debug\HB_Project08.Properties.Resources.resources
+C:\Users\Howard Brown\Desktop\HB_Project08\HB_Project08\obj\Debug\HB_Project08.csproj.GenerateResource.Cache
+C:\Users\Howard Brown\Desktop\HB_Project08\HB_Project08\obj\Debug\HB_Project08.exe
+C:\Users\Howard Brown\Desktop\HB_Project08\HB_Project08\obj\Debug\HB_Project08.pdb
+C:\Users\Howard Brown\Desktop\HB_Project08\HB_Project08\bin\Debug\HB_Project08.exe.config
+C:\Users\Howard Brown\Desktop\HB_Project08\HB_Project08\bin\Debug\HB_Project08.exe
+C:\Users\Howard Brown\Desktop\HB_Project08\HB_Project08\bin\Debug\HB_Project08.pdb
