@@ -1,0 +1,6 @@
+C:\Users\howard.brown\Desktop\HB_Project07\HB_Project07\bin\Debug\HB_Project07.exe.config
+C:\Users\howard.brown\Desktop\HB_Project07\HB_Project07\obj\Debug\HB_Project07.csprojResolveAssemblyReference.cache
+C:\Users\howard.brown\Desktop\HB_Project07\HB_Project07\bin\Debug\HB_Project07.exe
+C:\Users\howard.brown\Desktop\HB_Project07\HB_Project07\bin\Debug\HB_Project07.pdb
+C:\Users\howard.brown\Desktop\HB_Project07\HB_Project07\obj\Debug\HB_Project07.exe
+C:\Users\howard.brown\Desktop\HB_Project07\HB_Project07\obj\Debug\HB_Project07.pdb
