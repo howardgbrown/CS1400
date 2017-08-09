@@ -1,0 +1,6 @@
+C:\Users\howard.brown\Desktop\HB_Lab21\HB_Lab21\bin\Debug\HB_Lab21.exe.config
+C:\Users\howard.brown\Desktop\HB_Lab21\HB_Lab21\obj\Debug\HB_Lab21.csprojResolveAssemblyReference.cache
+C:\Users\howard.brown\Desktop\HB_Lab21\HB_Lab21\bin\Debug\HB_Lab21.exe
+C:\Users\howard.brown\Desktop\HB_Lab21\HB_Lab21\bin\Debug\HB_Lab21.pdb
+C:\Users\howard.brown\Desktop\HB_Lab21\HB_Lab21\obj\Debug\HB_Lab21.exe
+C:\Users\howard.brown\Desktop\HB_Lab21\HB_Lab21\obj\Debug\HB_Lab21.pdb
