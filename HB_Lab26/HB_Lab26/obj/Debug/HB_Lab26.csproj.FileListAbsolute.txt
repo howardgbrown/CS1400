@@ -1,0 +1,9 @@
+C:\Users\Howard Brown\Desktop\HB_Lab26\HB_Lab26\bin\Debug\HB_Lab26.exe.config
+C:\Users\Howard Brown\Desktop\HB_Lab26\HB_Lab26\bin\Debug\HB_Lab26.exe
+C:\Users\Howard Brown\Desktop\HB_Lab26\HB_Lab26\bin\Debug\HB_Lab26.pdb
+C:\Users\Howard Brown\Desktop\HB_Lab26\HB_Lab26\obj\Debug\HB_Lab26.csprojResolveAssemblyReference.cache
+C:\Users\Howard Brown\Desktop\HB_Lab26\HB_Lab26\obj\Debug\HB_Lab26.Form1.resources
+C:\Users\Howard Brown\Desktop\HB_Lab26\HB_Lab26\obj\Debug\HB_Lab26.Properties.Resources.resources
+C:\Users\Howard Brown\Desktop\HB_Lab26\HB_Lab26\obj\Debug\HB_Lab26.csproj.GenerateResource.Cache
+C:\Users\Howard Brown\Desktop\HB_Lab26\HB_Lab26\obj\Debug\HB_Lab26.exe
+C:\Users\Howard Brown\Desktop\HB_Lab26\HB_Lab26\obj\Debug\HB_Lab26.pdb

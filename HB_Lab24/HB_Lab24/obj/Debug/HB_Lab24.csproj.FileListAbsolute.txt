@@ -1,0 +1,6 @@
+C:\Users\Howard Brown\Desktop\HB_Lab24\HB_Lab24\obj\Debug\HB_Lab24.csprojResolveAssemblyReference.cache
+C:\Users\Howard Brown\Desktop\HB_Lab24\HB_Lab24\bin\Debug\HB_Lab24.exe.config
+C:\Users\Howard Brown\Desktop\HB_Lab24\HB_Lab24\bin\Debug\HB_Lab24.exe
+C:\Users\Howard Brown\Desktop\HB_Lab24\HB_Lab24\bin\Debug\HB_Lab24.pdb
+C:\Users\Howard Brown\Desktop\HB_Lab24\HB_Lab24\obj\Debug\HB_Lab24.exe
+C:\Users\Howard Brown\Desktop\HB_Lab24\HB_Lab24\obj\Debug\HB_Lab24.pdb
